@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Beschreibung`
-In diesem kleinen Projekt wird  `useState, useReducer und useContext` benutzt, um die Implemetacion zu vereinfachen.
+In diesem kleinen Projekt wird  `useState, useReducer und useContext` benutzt, um die Implementation zu vereinfachen.
 1. useState
 2. useContext
 3. useReducer
